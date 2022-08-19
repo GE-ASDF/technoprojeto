@@ -4,7 +4,7 @@
     "preco":2999,
     "descricao":"Notebook book",
     "estoque":12,
-    "img":"api/produtos/notebook/notebook-foto.jpg",
+    "img":"./api/produtos/notebook/notebook-foto.jpg",
     "avaliacoes":[
         {
             "nome":"Fabio",
